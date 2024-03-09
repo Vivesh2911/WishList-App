@@ -1,0 +1,29 @@
+.btn-light {
+  padding-left: 10px;
+  margin: 20px;
+  vertical-align: middle; /* Align the delete button vertically */
+}
+
+.inp {
+  margin-left: 10px;
+  height: 33px;
+}
+
+.text-center {
+  border: 2px solid black;
+  height: 70vh;
+  width: 80vw;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom right, #f3814c, #7ef20b);
+}
+
+.list {
+  list-style-type: none; /* Remove bullet points */
+}
+
+.list li {
+  display: flex;  /* Use flexbox for alignment */
+  align-items: center; /* Align items vertically */
+  margin-bottom: 10px; /* Add margin between items */
+}
